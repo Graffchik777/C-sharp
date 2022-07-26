@@ -6,10 +6,10 @@ if(inputlkeOne != null && inputlkeTwo != null)
     int inputNamberOne = int.Parse(inputlkeOne);
     int inputNamberTwo = int.Parse(inputlkeTwo);
 
-    //if(inputNamberOne == inputNamberTwo * inputNamberTwo)
-    //{
+    if(inputNamberOne == inputNamberTwo * inputNamberTwo)
+    // {
     //    Console.WriteLine ("yes");
-    //}
+    // }
     //        else{
     //            Console.WriteLine("No");
     //        }}
