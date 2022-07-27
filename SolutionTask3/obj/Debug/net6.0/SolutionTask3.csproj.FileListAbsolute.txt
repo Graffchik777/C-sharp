@@ -1,0 +1,15 @@
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\bin\Debug\net6.0\SolutionTask3.exe
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\bin\Debug\net6.0\SolutionTask3.deps.json
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\bin\Debug\net6.0\SolutionTask3.runtimeconfig.json
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\bin\Debug\net6.0\SolutionTask3.dll
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\bin\Debug\net6.0\SolutionTask3.pdb
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\obj\Debug\net6.0\SolutionTask3.csproj.AssemblyReference.cache
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\obj\Debug\net6.0\SolutionTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\obj\Debug\net6.0\SolutionTask3.AssemblyInfoInputs.cache
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\obj\Debug\net6.0\SolutionTask3.AssemblyInfo.cs
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\obj\Debug\net6.0\SolutionTask3.csproj.CoreCompileInputs.cache
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\obj\Debug\net6.0\SolutionTask3.dll
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\obj\Debug\net6.0\refint\SolutionTask3.dll
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\obj\Debug\net6.0\SolutionTask3.pdb
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\obj\Debug\net6.0\SolutionTask3.genruntimeconfig.cache
+C:\Users\Elita\Desktop\C#\Семинар1\SolutionTask3\obj\Debug\net6.0\ref\SolutionTask3.dll
